@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "urbainist";
+  letter-spacing: 0.1rem;
+  }
+  
+  html{
+    font-family: 62.5%;
+  }
+  body{
+    background-color: #1c2833;
+    background-image: linear-gradient(to right,#434343,black 100%);
+    color: #fdfefe;
+  }
